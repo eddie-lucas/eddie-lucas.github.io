@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a9550ed","path":"/work/mobile-bank/","title":"Mobile Bank","lang":"zh-CN","frontmatter":{"title":"Mobile Bank","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
