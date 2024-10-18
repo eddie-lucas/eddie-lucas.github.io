@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7dd9ef39","path":"/write/spring/","title":"Spring","lang":"zh-CN","frontmatter":{"title":"Spring","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
