@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ca96b9d","path":"/readNote/study-road/","title":"Study Road","lang":"zh-CN","frontmatter":{"title":"Study Road","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
